@@ -1,0 +1,15 @@
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.exe
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.deps.json
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.runtimeconfig.json
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.dll
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.pdb
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.csproj.AssemblyReference.cache
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.AssemblyInfoInputs.cache
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.AssemblyInfo.cs
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.csproj.CoreCompileInputs.cache
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.dll
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\refint\factorymethod.dll
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.pdb
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.genruntimeconfig.cache
+C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\ref\factorymethod.dll
