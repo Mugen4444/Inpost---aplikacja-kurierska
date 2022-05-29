@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\bin\Debug\net6.0\facade.exe
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\bin\Debug\net6.0\facade.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\bin\Debug\net6.0\facade.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\bin\Debug\net6.0\facade.dll
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\bin\Debug\net6.0\facade.pdb
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.dll
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\refint\facade.dll
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.pdb
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\facade.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\facade\facade\obj\Debug\net6.0\ref\facade.dll

@@ -13,3 +13,18 @@ C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factoryme
 C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.pdb
 C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.genruntimeconfig.cache
 C:\Users\Vanek\Source\Repos\Inpost---aplikacja-kurierska\factorymethod\factorymethod\obj\Debug\net6.0\ref\factorymethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.exe
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\bin\Debug\net6.0\factorymethod.pdb
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\refint\factorymethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.pdb
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\factorymethod.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\factorymethod\factorymethod\obj\Debug\net6.0\ref\factorymethod.dll

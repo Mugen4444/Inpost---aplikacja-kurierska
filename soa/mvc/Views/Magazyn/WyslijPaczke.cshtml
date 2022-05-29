@@ -1,0 +1,33 @@
+﻿@model mvc.Models.Magazyn.PaczkaViewModel;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Wyślij paczkę";
+}
+
+<h2>Wyślij paczkę</h2>
+<a asp-action="Index">Wszystkie paczki</a>
+
+<div class="send-package-form">
+    <form asp-controller="Magazyn" asp-action="WyslijPaczke" method="POST">
+        <div class="client-data">
+            <label>Nadawca</label>
+            <label>Imię <input type="text" name="paczka.Nadawca.Imie" required /></label>
+            <label>Nazwisko <input type="text" name="paczka.Nadawca.Nazwisko" required /></label>
+            <label>Nr telefonu <input type="tel" name="paczka.Nadawca.NrTelefonu" pattern="^\+?\d{1,}" title="Numer musi składać się z cyfr [0-9], może także zawierać znak +" required /></label>
+            <label>Adres zamieszkania <input type="text" name="paczka.Nadawca.AdresZamieszkania" required /></label>
+        </div>
+
+        <div class="client-data">
+            <label>Odbiorca</label>
+            <label>Imię <input type="text" name="paczka.Odbiorca.Imie" required /></label>
+            <label>Nazwisko <input type="text" name="paczka.Odbiorca.Nazwisko" required /></label>
+            <label>Nr telefonu <input type="tel" name="paczka.Odbiorca.NrTelefonu" pattern="^\+?\d{1,}" title="Numer musi składać się z cyfr [0-9], może także zawierać znak +" required /></label>
+            <label>Adres zamieszkania <input type="text" name="paczka.Odbiorca.AdresZamieszkania" required /></label>
+        </div>
+
+        <label>Zawartość paczki <textarea type="text" name="paczka.Zawartosc" required></textarea></label>
+        <input type="submit" value="Wyślij paczkę" />
+    </form>
+</div>

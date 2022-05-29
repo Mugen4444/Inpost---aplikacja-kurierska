@@ -1,0 +1,32 @@
+﻿@model mvc.Models.Magazyn.PaczkaViewModel;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Magazyn";
+}
+
+<h2>Magazyn</h2>
+<div class="controls">
+    <a asp-action="WyslijPaczke">Wyslij paczkę</a>
+</div>
+
+<div class="paczki">
+    @if (Model.Paczki.Any())
+    {
+        foreach (var paczka in Model.Paczki)
+        {
+            <div class="paczka">
+                <label>Nadał/-ła <span>@paczka.Nadawca!.ImieNazwisko</span></label>
+                <label>Do obioru przez <span>@paczka.Odbiorca!.ImieNazwisko</span></label>
+                <label>Zawartość <span>@paczka.Zawartosc</span></label>
+                <label>Data dodania <span>@paczka.DataDodania</span></label>
+                <a asp-action="Paczka" asp-route-id=@paczka.Id>Zobacz informacje</a>
+            </div>
+        }    
+    }
+    else
+    {
+        <p>Brak paczek w magazynie</p>
+    }
+</div>

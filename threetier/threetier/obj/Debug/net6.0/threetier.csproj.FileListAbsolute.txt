@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\bin\Debug\net6.0\threetier.exe
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\bin\Debug\net6.0\threetier.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\bin\Debug\net6.0\threetier.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\bin\Debug\net6.0\threetier.dll
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\bin\Debug\net6.0\threetier.pdb
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.dll
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\refint\threetier.dll
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.pdb
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\threetier.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\threetier\obj\Debug\net6.0\ref\threetier.dll

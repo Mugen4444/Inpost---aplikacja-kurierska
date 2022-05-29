@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AEH\\Wyzsa Szkola\\inpost\\inpost\\singleton\\singleton\\singleton.csproj": {}
+    "D:\\AEH\\Wyzsa Szkola\\tech inf\\singleton\\singleton\\singleton.csproj": {}
   },
   "projects": {
-    "D:\\AEH\\Wyzsa Szkola\\inpost\\inpost\\singleton\\singleton\\singleton.csproj": {
+    "D:\\AEH\\Wyzsa Szkola\\tech inf\\singleton\\singleton\\singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AEH\\Wyzsa Szkola\\inpost\\inpost\\singleton\\singleton\\singleton.csproj",
+        "projectUniqueName": "D:\\AEH\\Wyzsa Szkola\\tech inf\\singleton\\singleton\\singleton.csproj",
         "projectName": "singleton",
-        "projectPath": "D:\\AEH\\Wyzsa Szkola\\inpost\\inpost\\singleton\\singleton\\singleton.csproj",
+        "projectPath": "D:\\AEH\\Wyzsa Szkola\\tech inf\\singleton\\singleton\\singleton.csproj",
         "packagesPath": "C:\\Users\\Vanek\\.nuget\\packages\\",
-        "outputPath": "D:\\AEH\\Wyzsa Szkola\\inpost\\inpost\\singleton\\singleton\\obj\\",
+        "outputPath": "D:\\AEH\\Wyzsa Szkola\\tech inf\\singleton\\singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vanek\\AppData\\Roaming\\NuGet\\NuGet.Config",

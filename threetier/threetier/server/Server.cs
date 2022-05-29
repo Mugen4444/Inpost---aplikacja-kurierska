@@ -102,6 +102,7 @@ internal class Server
                     Console.WriteLine("LOG: " + result);
 
                     paczka = Paczka.FromString(result);
+                    db.Query("DELETE", paczka.Id.ToString());
                     return "Odebrano paczke z zawartoscia " + paczka.Zawartosc + " Id paczki " + paczka.Id;
                 }
                 catch (Exception ex)

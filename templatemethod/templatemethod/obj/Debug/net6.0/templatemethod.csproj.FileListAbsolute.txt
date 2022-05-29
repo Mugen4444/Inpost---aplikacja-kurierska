@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\bin\Debug\net6.0\templatemethod.exe
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\bin\Debug\net6.0\templatemethod.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\bin\Debug\net6.0\templatemethod.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\bin\Debug\net6.0\templatemethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\bin\Debug\net6.0\templatemethod.pdb
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\refint\templatemethod.dll
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.pdb
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\templatemethod.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\templatemethod\templatemethod\obj\Debug\net6.0\ref\templatemethod.dll

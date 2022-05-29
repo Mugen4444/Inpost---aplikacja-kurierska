@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\bin\Debug\net6.0\adapter.exe
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\bin\Debug\net6.0\adapter.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\bin\Debug\net6.0\adapter.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\bin\Debug\net6.0\adapter.dll
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\bin\Debug\net6.0\adapter.pdb
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.dll
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\refint\adapter.dll
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.pdb
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\adapter.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\adapter\adapter\obj\Debug\net6.0\ref\adapter.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vanek\\Source\\Repos\\Inpost---aplikacja-kurierska\\factorymethod\\factorymethod\\factorymethod.csproj": {}
+    "D:\\AEH\\Wyzsa Szkola\\tech inf\\factorymethod\\factorymethod\\factorymethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vanek\\Source\\Repos\\Inpost---aplikacja-kurierska\\factorymethod\\factorymethod\\factorymethod.csproj": {
+    "D:\\AEH\\Wyzsa Szkola\\tech inf\\factorymethod\\factorymethod\\factorymethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vanek\\Source\\Repos\\Inpost---aplikacja-kurierska\\factorymethod\\factorymethod\\factorymethod.csproj",
+        "projectUniqueName": "D:\\AEH\\Wyzsa Szkola\\tech inf\\factorymethod\\factorymethod\\factorymethod.csproj",
         "projectName": "factorymethod",
-        "projectPath": "C:\\Users\\Vanek\\Source\\Repos\\Inpost---aplikacja-kurierska\\factorymethod\\factorymethod\\factorymethod.csproj",
+        "projectPath": "D:\\AEH\\Wyzsa Szkola\\tech inf\\factorymethod\\factorymethod\\factorymethod.csproj",
         "packagesPath": "C:\\Users\\Vanek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vanek\\Source\\Repos\\Inpost---aplikacja-kurierska\\factorymethod\\factorymethod\\obj\\",
+        "outputPath": "D:\\AEH\\Wyzsa Szkola\\tech inf\\factorymethod\\factorymethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vanek\\AppData\\Roaming\\NuGet\\NuGet.Config",

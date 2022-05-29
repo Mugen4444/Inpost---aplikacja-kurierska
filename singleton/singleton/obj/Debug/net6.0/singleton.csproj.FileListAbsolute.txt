@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\bin\Debug\net6.0\singleton.exe
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\bin\Debug\net6.0\singleton.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\bin\Debug\net6.0\singleton.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\bin\Debug\net6.0\singleton.dll
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\bin\Debug\net6.0\singleton.pdb
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.dll
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\refint\singleton.dll
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.pdb
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\singleton.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\singleton\singleton\obj\Debug\net6.0\ref\singleton.dll

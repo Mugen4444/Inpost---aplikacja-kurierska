@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\bin\Debug\net6.0\iterator.exe
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\bin\Debug\net6.0\iterator.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\bin\Debug\net6.0\iterator.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\bin\Debug\net6.0\iterator.dll
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\bin\Debug\net6.0\iterator.pdb
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.dll
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\refint\iterator.dll
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.pdb
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\iterator.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\iterator\iterator\obj\Debug\net6.0\ref\iterator.dll

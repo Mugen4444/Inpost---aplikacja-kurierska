@@ -1,0 +1,15 @@
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\bin\Debug\net6.0\client.exe
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\bin\Debug\net6.0\client.deps.json
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\bin\Debug\net6.0\client.runtimeconfig.json
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\bin\Debug\net6.0\client.dll
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\bin\Debug\net6.0\client.pdb
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.csproj.AssemblyReference.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.AssemblyInfoInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.AssemblyInfo.cs
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.csproj.CoreCompileInputs.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.dll
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\refint\client.dll
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.pdb
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\client.genruntimeconfig.cache
+D:\AEH\Wyzsa Szkola\tech inf\threetier\client\obj\Debug\net6.0\ref\client.dll
